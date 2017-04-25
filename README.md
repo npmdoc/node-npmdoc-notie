@@ -1,4 +1,7 @@
-# api documentation for  [notie (v4.3.0)](https://jaredreich.com/projects/notie)  [![npm package](https://img.shields.io/npm/v/npmdoc-notie.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-notie) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-notie.svg)](https://travis-ci.org/npmdoc/node-npmdoc-notie)
+# npmdoc-notie
+
+#### basic api documentation for  [notie (v4.3.0)](https://jaredreich.com/projects/notie)  [![npm package](https://img.shields.io/npm/v/npmdoc-notie.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-notie) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-notie.svg)](https://travis-ci.org/npmdoc/node-npmdoc-notie)
+
 #### notie - a clean and simple notification, input, and selection suite for javascript, with no dependencies
 
 [![NPM](https://nodei.co/npm/notie.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/notie)
@@ -79,7 +82,8 @@
         "build": "gulp clean && gulp script && gulp style",
         "dev": "gulp"
     },
-    "version": "4.3.0"
+    "version": "4.3.0",
+    "bin": {}
 }
 ```
 
